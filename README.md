@@ -36,7 +36,7 @@ npm start
 
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 **Observação:**  O backend e o frontend rodam em portas diferentes.  O frontend deve ser configurado para se comunicar com a porta correta do backend (verifique os arquivos de configuração).
